@@ -1,0 +1,19 @@
+
+.navbar{
+    background: transparent !important;
+    position: sticky;
+    z-index: 100;
+}
+
+body{
+    background: url(/assets/img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.card ul a{
+   float: right;
+   margin: 0 .3rem;
+}
+
