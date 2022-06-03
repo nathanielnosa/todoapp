@@ -10,6 +10,10 @@ body{
     z-index: 100;
 }
 
+.navbar .navbar-brand{
+    font-size: 2rem;
+}
+
 .card{
     background: #2e8b567c;
     color: white;
