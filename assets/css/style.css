@@ -12,6 +12,11 @@ body{
     height: auto;
 }
 
+.card{
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+}
+
 .card ul a{
    float: right;
    margin: 0 .3rem;
